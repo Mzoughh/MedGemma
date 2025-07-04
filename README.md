@@ -203,6 +203,7 @@ MIT License
 - nnU-Net by MIC-DKFZ.
 - Google Cloud Platform for infrastructure.
 
-##  Contact 
-This part of the project was completly developped by Zoughebi Mateo (PhD Student) 
-contact : mateo.zoughebi@telecom-sudparis.eu
+##  Contact and more
+- This part of the project was completly developped by Zoughebi Mateo (PhD Student).
+- Tested by Rohit Datchanamourty on both linux and windows distribution.
+- Contact : mateo.zoughebi@telecom-sudparis.eu.

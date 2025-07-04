@@ -202,3 +202,7 @@ MIT License
 ## 🙏 Acknowledgements
 - nnU-Net by MIC-DKFZ.
 - Google Cloud Platform for infrastructure.
+
+##  Contact 
+This part of the project was completly developped by Zoughebi Mateo (PhD Student) 
+contact : mateo.zoughebi@telecom-sudparis.eu
